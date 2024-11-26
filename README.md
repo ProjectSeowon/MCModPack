@@ -15,18 +15,18 @@ MSG for Sonic - FIles are virus checked and uploaded for user safety
 
 - Run the app that it downloads make sure that you select MC ver. 1.21.1
 
-- download the modpack .zip file from releases and unzip it
+- Download the modpack .zip file from releases and unzip it
 
-- when fabric has installed click on the highlighted mods botton in the installer which will bring you to your MC folder 
+- When fabric has installed click on the highlighted mods botton in the installer which will bring you to your MC folder 
 
-- go back to the .minecraft folder
+- Go back to the .minecraft folder
 
 - Copy in the unzipped files
 
 ## CurseForge
 
-- download CurseForge from https://www.curseforge.com/download/app and install it
+- Download CurseForge from https://www.curseforge.com/download/app and install it
 
-- download the CurseForge profile import from the release
+- Download the CurseForge profile import from the release
 
 - In Curseforge click import and import the zip file
