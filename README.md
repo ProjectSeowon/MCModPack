@@ -13,7 +13,7 @@ MSG for Sonic - FIles are virus checked and uploaded for user safety
 
 - Then click on the Download for Windows (or Mac) Button
 
-- Run the app that it downloads make sure that you select MC ver. 1.21.1
+- Run the app that it downloads make sure that you select MC ver. 1.21
 
 - Download the modpack .zip file from releases and unzip it
 
